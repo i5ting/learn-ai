@@ -23,7 +23,7 @@
 tools
 
 - https://github.com/wxtsky/CodeIsland
-
+- https://github.com/farion1231/cc-switch
 
 终端
 
