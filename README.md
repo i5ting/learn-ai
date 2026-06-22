@@ -2,6 +2,8 @@
 
 狼叔的ai自留地
 
+![alt text](image-1.png)
+
 ## 杰文斯悖论
 
 杰文斯悖论（Jevons Paradox）是由19世纪英国经济学家威廉·斯坦利·杰文斯（William Stanley Jevons）在1865年提出的经济学理论。它指出：当技术进步提高了某种资源的使用效率，从而减少了单位产出所需的资源量时，该资源的总消耗量不但不会下降，反而可能会增加。
@@ -79,6 +81,7 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/gastownhall/beads
 - https://github.com/millionco/spawn-agent
 - https://github.com/entireio/cli
+- https://github.com/sourcegraph/zoekt
 
 
 ## 龙虾及变体
@@ -148,6 +151,8 @@ tauri + https://github.com/longbridge/gpui-component
 - https://github.com/GoogleCloudPlatform/knowledge-catalog
 - https://pandawiki.docs.baizhi.cloud/
 - https://github.com/hilash/cabinet
+- https://github.com/safishamsi/graphify
+- https://github.com/colbymchenry/codegraph
 
 
 ## 应用
@@ -170,3 +175,4 @@ agent 的尽头是im
 - 聊一聊 Agent 的存算分离架构设计 https://x.com/idoubicc/status/2061670587043610688
 - Agent 沙箱 Claude Code Cursor OpenClaw标配能力一文讲清楚 https://mp.weixin.qq.com/s/-FSThb-jyX5zdMcYlfl1HQ
 - learn-claude-code-js https://github.com/i5ting/learn-claude-code-js/
+- Agent Skills 设计哲学和实战进化 https://x.com/dotey/status/2036114136245969025
