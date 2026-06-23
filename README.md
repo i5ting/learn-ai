@@ -188,3 +188,11 @@ agent 的尽头是im
 - Agent 沙箱 Claude Code Cursor OpenClaw标配能力一文讲清楚 https://mp.weixin.qq.com/s/-FSThb-jyX5zdMcYlfl1HQ
 - learn-claude-code-js https://github.com/i5ting/learn-claude-code-js/
 - Agent Skills 设计哲学和实战进化 https://x.com/dotey/status/2036114136245969025
+
+## 叔语录
+
+- 以为软件工程不要了，结果是一样也没少。。。
+- 35不是学不动了，以前是门槛，现在35之前是门槛，新人连入行都费劲
+- 有了AI之后，大家都在干别人的活并觉得成就满满
+- 这就是ai给大家的幻觉，专业的人做不专业的事，还成就感满满，结果对核心业务毛帮助没有
+- ai时代，其实大家都是新人，是时候放下这些了。还是应该做输出型，而非骂人
