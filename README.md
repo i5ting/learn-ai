@@ -165,6 +165,7 @@ tauri + https://github.com/longbridge/gpui-component
 - 开源：https://multica.ai/
 - https://github.com/paperclipai/paperclip
 - https://wisme.ai/
+- https://github.com/ThinkInAIXYZ/deepchat
 
 agent 的尽头是im
 
